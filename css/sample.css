@@ -305,6 +305,7 @@ h1 {
         display: block; }
         #contents .pc_sidemenu h3 {
           color: #42b9d0;
+          background-color: #f3f9fb;
           font-size: 14px;
           font-weight: bold;
           letter-spacing: 2px;
